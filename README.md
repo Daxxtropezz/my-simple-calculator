@@ -1,2 +1,2 @@
-# daxx-scal.github.io
+# my-simple-calculator
 A Simple Calculator by Daxxtropezz
